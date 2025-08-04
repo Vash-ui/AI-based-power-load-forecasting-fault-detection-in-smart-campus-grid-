@@ -1,0 +1,16 @@
+node_id,parent_node,voltage_level,connected_meters,cable_type,length_meters
+sub_1_feeder_1,sub_1,480V,"meter_011,meter_016",Rubber,137
+sub_1_feeder_2,sub_1,480V,"meter_012,meter_017",Rubber,89
+sub_1_feeder_3,sub_1,480V,"meter_013,meter_018",Rubber,139
+sub_1_feeder_4,sub_1,208V,"meter_014,meter_019",XLPE,50
+sub_1_feeder_5,sub_1,208V,"meter_015,meter_020",Rubber,192
+sub_2_feeder_1,sub_2,480V,"meter_021,meter_026",Rubber,63
+sub_2_feeder_2,sub_2,480V,"meter_022,meter_027",Rubber,196
+sub_2_feeder_3,sub_2,480V,"meter_023,meter_028",Rubber,85
+sub_2_feeder_4,sub_2,208V,"meter_024,meter_029",Rubber,60
+sub_2_feeder_5,sub_2,208V,"meter_025,meter_030",Rubber,159
+sub_3_feeder_1,sub_3,480V,"meter_031,meter_036",Rubber,145
+sub_3_feeder_2,sub_3,480V,"meter_032,meter_037",XLPE,173
+sub_3_feeder_3,sub_3,480V,"meter_033,meter_038",XLPE,151
+sub_3_feeder_4,sub_3,208V,"meter_034,meter_039",XLPE,63
+sub_3_feeder_5,sub_3,208V,"meter_035,meter_040",Rubber,98
